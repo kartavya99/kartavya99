@@ -1,10 +1,12 @@
 # Kartavya Saini
 
-**.NET & Full Stack Developer | C# · ASP.NET Core · React · TypeScript · Azure**
+**Full Stack Software Engineer | .NET & Node.js · Microservices · Distributed Systems · Cloud-Native Applications**
 
-I'm a Melbourne-based **full-stack developer** focused on software engineering, modern web applications and distributed systems. I build across frontend interfaces, backend APIs, databases and cloud infrastructure, with an emphasis on clean architecture, reliability and practical problem-solving.
+I'm a Melbourne-based **Full Stack Software Developer** specialising in .NET, Node.js, microservices and distributed systems. I build end-to-end applications spanning modern frontend frameworks, backend APIs, event-driven architecture, databases and cloud infrastructure, using technologies such as React, Angular, ASP.NET Core, TypeScript, Docker and Kubernetes.
 
-I'm expanding into **AI engineering and forward-deployed engineering**—combining full-stack development, system integration and applied AI to solve real-world problems.
+My engineering focus is on scalable system design, clean architecture, reliability and cloud-native development, with growing interests in AI engineering and intelligent applications.
+
+I'm expanding into **AI engineering and forward-deployed engineering,** building on my full-stack and distributed systems background to develop intelligent applications, integrate AI capabilities into existing platforms and deliver practical, scalable solutions.
 
 ## Technical skills
 
@@ -25,17 +27,17 @@ I use AI coding tools to explore solutions, accelerate implementation, investiga
 
 ## Featured projects
 
-### [Jobber — Full Stack Microservices Marketplace](https://github.com/kartavya99/jobber-demo)
-
-A freelance marketplace built with a **React/TypeScript frontend** and **Node.js/Express microservices**, using **RabbitMQ** for asynchronous messaging and **Redis** for caching. Explores service boundaries, API integration, multiple data stores and containerised deployment.
-
-**Focus:** Full-stack development · Distributed systems · Event-driven architecture
-
 ### [eCommerce Microservices Platform — .NET](https://github.com/kartavya99/eCommerce-Microservices-Platform)
 
-An e-commerce microservices project built with **C# and ASP.NET Core Web APIs**, exploring service-based backend design, data access and asynchronous communication with **RabbitMQ**.
+A distributed e-commerce application built with C#, ASP.NET Core and Angular 17, featuring three independently designed microservices connected through an Ocelot API Gateway. Demonstrates Clean Architecture, RESTful APIs, asynchronous event-driven communication using RabbitMQ, and multiple persistence strategies with PostgreSQL, MySQL and MongoDB. Incorporates EF Core, Dapper, Redis and Polly for data access, caching and resilience.
 
-**Focus:** .NET backend engineering · Microservices · API design · Messaging
+Focus: .NET Backend Engineering · Microservices Architecture · Event-Driven Systems · API Gateway · Distributed Data Management
+
+### [Jobber — Full Stack Microservices Marketplace](https://github.com/kartavya99/jobber-demo)
+
+A full-stack, distributed freelance marketplace built with React, TypeScript, Node.js and Express, featuring eight microservices behind an API Gateway. Demonstrates event-driven architecture with RabbitMQ, real-time communication using Socket.IO, Redis caching, JWT authentication and polyglot persistence with PostgreSQL, MySQL and MongoDB. Incorporates Elasticsearch and Kibana for centralised logging and observability, alongside containerised deployments using Docker, Kubernetes and AWS EKS, with automated CI/CD pipelines powered by Jenkins.
+
+Focus: Full Stack Engineering · Distributed Systems · Microservices · Event-Driven Architecture · Cloud Infrastructure · DevOps
 
 ### [NexaStore-AI — AI-Enabled .NET & React E-Commerce](https://github.com/kartavya99/NexaStore-AI)
 
