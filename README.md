@@ -42,5 +42,3 @@ An e-commerce microservices project built with **C# and ASP.NET Core Web APIs**,
 An **in-progress** project extending a **.NET 10 and React e-commerce application** with AI capabilities. The implementation roadmap includes **Ollama, retrieval-augmented generation (RAG), tool calling, Model Context Protocol (MCP), JEV (Judge–Execute–Verify), multi-agent orchestration, AG-UI and Azure AI Foundry**, progressing from local **Docker** development toward **Azure Kubernetes Service (AKS)** deployment.
 
 **Focus:** LLM integration · Agentic workflows · Full-stack AI architecture
-
-**Based in Melbourne, Australia · Australian citizen · Open to Melbourne hybrid and remote developer opportunities**
