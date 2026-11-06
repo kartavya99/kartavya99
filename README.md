@@ -2,48 +2,65 @@
 
 **Full Stack Software Engineer | .NET & Node.js · Microservices · Distributed Systems · Cloud-Native Applications**
 
-I'm a Melbourne-based **Full Stack Software Developer** specialising in .NET, Node.js, microservices and distributed systems. I build end-to-end applications spanning modern frontend frameworks, backend APIs, event-driven architecture, databases and cloud infrastructure, using technologies such as React, Angular, ASP.NET Core, TypeScript, Docker and Kubernetes.
+I'm a Melbourne-based **full-stack software developer** building end-to-end applications with **.NET, Node.js, React and Angular**. My work spans backend APIs, event-driven microservices, databases and cloud infrastructure, with a focus on **scalable system design, clean architecture and reliability**.
 
-My engineering focus is on scalable system design, clean architecture, reliability and cloud-native development, with growing interests in AI engineering and intelligent applications.
+I'm expanding into **AI engineering and forward-deployed engineering**, bringing applied AI and system integration into real-world software and business workflows.
 
-I'm expanding into **AI engineering and forward-deployed engineering,** building on my full-stack and distributed systems background to develop intelligent applications, integrate AI capabilities into existing platforms and deliver practical, scalable solutions.
-
-## Technical skills
-
-| Area | Technologies & practices |
-| --- | --- |
-| **Languages** | C#, TypeScript, JavaScript, SQL, Bash, HTML5, CSS3 |
-| **Backend & APIs** | ASP.NET Core, Web API, Entity Framework Core, Dapper, Node.js, Express, REST, GraphQL |
-| **Frontend** | React, Next.js, Redux Toolkit, React Query, Tailwind CSS, Bootstrap |
-| **Architecture** | Microservices, event-driven systems, asynchronous messaging, OOP, SOLID, Clean Architecture |
-| **Databases** | SQL Server, PostgreSQL, MySQL, MongoDB, Redis |
-| **Testing** | xUnit, Moq, Jest, Playwright, TDD, unit and integration testing |
-| **Cloud & DevOps** | Azure (AKS, API Management, Service Bus, Azure DevOps), AWS, Docker, Kubernetes, GitHub Actions, CI/CD |
-| **AI capabilities** | LLM API integration, prompt design, structured outputs, AI-output validation, RAG/vector search, AI-assisted development with GitHub Copilot, Claude Code, Codex and Gemini |
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=kartavya99&label=PROFILE+VIEWS&color=007ec6&style=flat)
-
-## AI engineering
-
-I use AI coding tools to explore solutions, accelerate implementation, investigate defects and support test development. I focus on **reviewing generated changes, validating results and maintaining engineering accountability**. My AI application work includes LLM integrations, tool-enabled workflows, embeddings and PostgreSQL/pgvector, with attention to grounding and data integrity.
-
-## Featured projects
+## Featured Projects
 
 ### [eCommerce Microservices Platform — .NET](https://github.com/kartavya99/eCommerce-Microservices-Platform)
 
-A distributed e-commerce application built with C#, ASP.NET Core and Angular 17, featuring three independently designed microservices connected through an Ocelot API Gateway. Demonstrates Clean Architecture, RESTful APIs, asynchronous event-driven communication using RabbitMQ, and multiple persistence strategies with PostgreSQL, MySQL and MongoDB. Incorporates EF Core, Dapper, Redis and Polly for data access, caching and resilience.
+A distributed e-commerce platform built with **C#, ASP.NET Core and Angular 17**. Three services sit behind an **Ocelot API Gateway**, using distinct approaches to API and data-layer design: Clean Architecture and Dapper for Users, Minimal APIs and EF Core for Products, and controller-based APIs for Orders. **RabbitMQ** supports asynchronous communication, while **PostgreSQL, MySQL, MongoDB, Redis and Polly** cover persistence, caching and resilience.
 
-Focus: .NET Backend Engineering · Microservices Architecture · Event-Driven Systems · API Gateway · Distributed Data Management
+**Engineering focus:** .NET backend development · Microservices · Event-driven architecture · API gateways · Distributed data
 
 ### [Jobber — Full Stack Microservices Marketplace](https://github.com/kartavya99/jobber-demo)
 
-A full-stack, distributed freelance marketplace built with React, TypeScript, Node.js and Express, featuring eight microservices behind an API Gateway. Demonstrates event-driven architecture with RabbitMQ, real-time communication using Socket.IO, Redis caching, JWT authentication and polyglot persistence with PostgreSQL, MySQL and MongoDB. Incorporates Elasticsearch and Kibana for centralised logging and observability, alongside containerised deployments using Docker, Kubernetes and AWS EKS, with automated CI/CD pipelines powered by Jenkins.
+A freelance marketplace built with **React, TypeScript, Node.js and Express**, comprising **eight microservices** behind an API Gateway. It uses **RabbitMQ** for service messaging, **Socket.IO** for real-time communication, **Redis** for caching and **JWT** for authentication, with **PostgreSQL, MySQL and MongoDB** for data storage. The platform also covers **Elasticsearch/Kibana observability**, **Docker/Kubernetes**, **AWS EKS** deployment and **Jenkins CI/CD**.
 
-Focus: Full Stack Engineering · Distributed Systems · Microservices · Event-Driven Architecture · Cloud Infrastructure · DevOps
+**Engineering focus:** Full-stack development · Distributed systems · Real-time features · Cloud infrastructure · DevOps
 
 ### [NexaStore-AI — AI-Enabled .NET & React E-Commerce](https://github.com/kartavya99/NexaStore-AI)
 
-An **in-progress** project extending a **.NET 10 and React e-commerce application** with AI capabilities. The implementation roadmap includes **Ollama, retrieval-augmented generation (RAG), tool calling, Model Context Protocol (MCP), JEV (Judge–Execute–Verify), multi-agent orchestration, AG-UI and Azure AI Foundry**, progressing from local **Docker** development toward **Azure Kubernetes Service (AKS)** deployment.
+An **in-progress** project extending an existing **.NET 10 and React** e-commerce application with AI capabilities. The roadmap includes **Ollama, retrieval-augmented generation (RAG), tool calling, Model Context Protocol (MCP), Judge–Execute–Verify (JEV), multi-agent orchestration, AG-UI and Azure AI Foundry**—from local **Docker** development towards deployment on **Azure Kubernetes Service (AKS)**.
 
-**Focus:** LLM integration · Agentic workflows · Full-stack AI architecture
+**Engineering focus:** LLM integration · Tool-enabled applications · Agentic workflows · Cloud-native AI
+
+## Engineering Capabilities
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend & Distributed Systems</h3>
+      <p>Microservices, REST/GraphQL APIs, event-driven systems, API gateways, asynchronous messaging and Clean Architecture.</p>
+      <p><strong>Stack:</strong> C#, ASP.NET Core, Node.js, Express, TypeScript, RabbitMQ, Redis, EF Core, Dapper</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full Stack Engineering</h3>
+      <p>Web interfaces, state management, API integration and SQL/NoSQL data modelling across frontend and backend.</p>
+      <p><strong>Stack:</strong> React, Next.js, Redux Toolkit, React Query, Tailwind CSS, PostgreSQL, SQL Server, MySQL, MongoDB</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cloud, Delivery & Quality</h3>
+      <p>Containerised deployments, Kubernetes orchestration, CI/CD, automated testing and production troubleshooting.</p>
+      <p><strong>Stack:</strong> Azure (AKS, API Management, Service Bus, DevOps), AWS EKS, Docker, Kubernetes, GitHub Actions, Jenkins, xUnit, Moq, Jest, Playwright</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Engineering</h3>
+      <p>LLM API integration, RAG and vector search, structured outputs, prompt design, tool-enabled workflows and validation of AI-generated results.</p>
+      <p><strong>Stack & tools:</strong> PostgreSQL/pgvector, GitHub Copilot, Claude Code, Codex, Gemini; exploring MCP and agent orchestration through NexaStore-AI</p>
+    </td>
+  </tr>
+</table>
+
+**Engineering principles:** OOP · SOLID · Test-Driven Development · Unit & integration testing · System design · Maintainability
+
+### AI Development Approach
+
+I use AI coding assistants to explore implementation options, investigate defects and accelerate development and testing. I remain responsible for **architecture decisions, reviewing generated code, validating results and protecting system reliability and data integrity**.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=kartavya99&label=PROFILE+VIEWS&color=007ec6&style=flat)
