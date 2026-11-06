@@ -21,6 +21,9 @@ I'm expanding into **AI engineering and forward-deployed engineering,** building
 | **Cloud & DevOps** | Azure (AKS, API Management, Service Bus, Azure DevOps), AWS, Docker, Kubernetes, GitHub Actions, CI/CD |
 | **AI capabilities** | LLM API integration, prompt design, structured outputs, AI-output validation, RAG/vector search, AI-assisted development with GitHub Copilot, Claude Code, Codex and Gemini |
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=kartavya99&label=PROFILE+VIEWS&color=007ec6&style=flat)
+
 ## AI engineering
 
 I use AI coding tools to explore solutions, accelerate implementation, investigate defects and support test development. I focus on **reviewing generated changes, validating results and maintaining engineering accountability**. My AI application work includes LLM integrations, tool-enabled workflows, embeddings and PostgreSQL/pgvector, with attention to grounding and data integrity.
