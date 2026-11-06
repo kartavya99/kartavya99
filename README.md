@@ -2,9 +2,46 @@
 
 **Full Stack Software Engineer | .NET & Node.js · Microservices · Distributed Systems · Cloud-Native Applications**
 
-I'm a Melbourne-based **full-stack software developer** building end-to-end applications with **.NET, Node.js, React and Angular**. My work spans backend APIs, event-driven microservices, databases and cloud infrastructure, with a focus on **scalable system design, clean architecture and reliability**.
+I'm a Melbourne-based **full-stack software developer** building end-to-end applications with **.NET, Node.js and React**. My work spans backend APIs, event-driven microservices, databases and cloud infrastructure, with a focus on **scalable system design, clean architecture and reliability**.
 
 I'm expanding into **AI engineering and forward-deployed engineering**, bringing applied AI and system integration into real-world software and business workflows.
+
+## Engineering Capabilities
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend &amp; APIs</strong>
+      <p>C#, ASP.NET Core, Web API, EF Core, Dapper, LINQ, Node.js, Express, REST, GraphQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Frontend &amp; Web</strong>
+      <p>React, Next.js, TypeScript, Redux Toolkit, React Query, Tailwind CSS, Bootstrap</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Architecture &amp; Messaging</strong>
+      <p>Microservices, Clean Architecture, SOLID, RabbitMQ, Service Bus, Ocelot, Socket.IO</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Databases &amp; Observability</strong>
+      <p>SQL Server, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Kibana, pgvector</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Cloud, DevOps &amp; Testing</strong>
+      <p>Azure, AWS, Docker, Kubernetes, Jenkins, GitHub Actions, xUnit, Moq, Jest, Playwright</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>AI Engineering</strong>
+      <p>LLM integrations, RAG, vector search, structured outputs, Copilot, Claude Code, Codex, Gemini, agentic AI exploration</p>
+    </td>
+  </tr>
+</table>
+
+**Engineering principles:** OOP · SOLID · Test-Driven Development · Unit & integration testing · System design · Maintainability
 
 ## Featured Projects
 
@@ -26,38 +63,9 @@ An **in-progress** project extending an existing **.NET 10 and React** e-commerc
 
 **Engineering focus:** LLM integration · Tool-enabled applications · Agentic workflows · Cloud-native AI
 
-## Engineering Capabilities
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend & Distributed Systems</h3>
-      <p>Microservices, REST/GraphQL APIs, event-driven systems, API gateways, asynchronous messaging and Clean Architecture.</p>
-      <p><strong>Stack:</strong> C#, ASP.NET Core, Node.js, Express, TypeScript, RabbitMQ, Redis, EF Core, Dapper</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Full Stack Engineering</h3>
-      <p>Web interfaces, state management, API integration and SQL/NoSQL data modelling across frontend and backend.</p>
-      <p><strong>Stack:</strong> React, Next.js, Redux Toolkit, React Query, Tailwind CSS, PostgreSQL, SQL Server, MySQL, MongoDB</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Cloud, Delivery & Quality</h3>
-      <p>Containerised deployments, Kubernetes orchestration, CI/CD, automated testing and production troubleshooting.</p>
-      <p><strong>Stack:</strong> Azure (AKS, API Management, Service Bus, DevOps), AWS EKS, Docker, Kubernetes, GitHub Actions, Jenkins, xUnit, Moq, Jest, Playwright</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Engineering</h3>
-      <p>LLM API integration, RAG and vector search, structured outputs, prompt design, tool-enabled workflows and validation of AI-generated results.</p>
-      <p><strong>Stack & tools:</strong> PostgreSQL/pgvector, GitHub Copilot, Claude Code, Codex, Gemini; exploring MCP and agent orchestration through NexaStore-AI</p>
-    </td>
-  </tr>
-</table>
-
-**Engineering principles:** OOP · SOLID · Test-Driven Development · Unit & integration testing · System design · Maintainability
-
-### AI Development Approach
+## AI Development Approach
 
 I use AI coding assistants to explore implementation options, investigate defects and accelerate development and testing. I remain responsible for **architecture decisions, reviewing generated code, validating results and protecting system reliability and data integrity**.
 
